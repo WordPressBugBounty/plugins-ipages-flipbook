@@ -1,10 +1,10 @@
-=== iPages Flipbook For WordPress ===
+=== iPages - FlipBook Image & PDF Viewer ===
 Contributors: Avirtum
-Tags: flipbook from images, pdf viewer, book with markers, responsive design
+Tags: flip book, pdf viewer, flipbook, pdf flipbook, image flipbook
 Requires at least: 4.0
-Tested up to: 6.5
-Requires PHP: 7.0
-Stable tag: 1.5.4
+Tested up to: 6.7
+Requires PHP: 7.4
+Stable tag: 1.5.5
 
 Create great interactive digital HTML5 flipbooks, the plugin provides an easy way for you to convert static PDF documents or image sets into the online magazine, interactive catalogs, media brochures or booklets in seconds.
 
@@ -41,9 +41,6 @@ https://youtu.be/uyehrTDdz14
 * **Customization** - create you own theme
 
 
-The developer version is avalible [here](https://github.com/yalogica/ipages-flipbook).
-
-
 == Installation ==
 * From the WP admin panel, click "Plugins" -> "Add new"
 * In the browser input box, type "iPages Flipbook"
@@ -76,6 +73,9 @@ The lite version has only one limitation. You can create and use only one item. 
 
 
 == Changelog ==
+
+= 1.5.5 =
+* Fix: Undefined array key "className"
 
 = 1.5.4 =
 * Fix: ajax request params

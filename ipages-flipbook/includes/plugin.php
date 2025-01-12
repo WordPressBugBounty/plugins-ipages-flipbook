@@ -600,7 +600,7 @@ class iPages_App {
 			return $content;
 		}
 		
-		$atts['class'] = $atts['className'];
+		$atts['class'] = $atts['className'] ?? '';
 		
 		if($atts['id']) {
 			return $this->shortcode($atts);
