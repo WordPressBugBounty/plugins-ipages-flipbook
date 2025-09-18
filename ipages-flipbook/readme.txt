@@ -5,8 +5,10 @@ Requires at least: 4.0
 Tested up to: 6.7
 Requires PHP: 7.4
 Stable tag: 1.5.5
+License: GPLv3
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-Create great interactive digital HTML5 flipbooks, the plugin provides an easy way for you to convert static PDF documents or image sets into the online magazine, interactive catalogs, media brochures or booklets in seconds.
+Create interactive HTML5 flipbooks from PDFs or images instantly - turn them into online magazines, catalogs, or brochures with ease.
 
 == Description ==
 
